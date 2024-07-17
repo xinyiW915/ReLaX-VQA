@@ -10,4 +10,4 @@ With the rapid growth of User-Generated Content (UGC) exchanged between users an
 ## Methodology
 <img src="./Framework.png" alt="proposed_ReLaX-VQA_framework" width="800"/>
 
-The figure shows the overview of the proposed ReLaX-VQA framework. The architectures of ResNet-50 Stack (I) and ResNet-50 Pool (II) are provided in Fig. 2 in the Appendix.
+The figure shows the overview of the proposed ReLaX-VQA framework. The architectures of ResNet-50 Stack (I) and ResNet-50 Pool (II) are provided in Fig.2 in the Appendix.
