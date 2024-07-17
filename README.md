@@ -1,8 +1,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-live-vqc)](https://paperswithcode.com/sota/video-quality-assessment-on-live-vqc?p=relax-vqa-residual-fragment-and-layer-stack)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-youtube-ugc)](https://paperswithcode.com/sota/video-quality-assessment-on-youtube-ugc?p=relax-vqa-residual-fragment-and-layer-stack)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-konvid-1k)](https://paperswithcode.com/sota/video-quality-assessment-on-konvid-1k?p=relax-vqa-residual-fragment-and-layer-stack)
-will be updated soon..
 
+will be updated soon..
 # ReLaX-VQA
 
 This repository will open source the code from the following paper: 
@@ -37,3 +37,6 @@ If you find this paper and the repo useful, please cite our paper 😊:
       url={https://arxiv.org/abs/2407.11496}, 
 }
 ```
+
+## Contact:
+Xinyi WANG, xinyi.wang@bristol.ac.uk
