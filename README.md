@@ -39,4 +39,4 @@ If you find this paper and the repo useful, please cite our paper 😊:
 ```
 
 ## Contact:
-Xinyi WANG, xinyi.wang@bristol.ac.uk
+Xinyi WANG, ```xinyi.wang@bristol.ac.uk```
