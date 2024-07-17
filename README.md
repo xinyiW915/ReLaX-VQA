@@ -1,4 +1,5 @@
 # ReLaX-VQA
+will update it soon..
 
 This repository will open source the code from the following paper: 
 X. Wang, A. Katsenou, and D. Bull,  ["ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment"](https://arxiv.org/abs/2407.11496v1)
@@ -11,3 +12,20 @@ With the rapid growth of User-Generated Content (UGC) exchanged between users an
 <img src="./Framework.png" alt="proposed_ReLaX-VQA_framework" width="800"/>
 
 The figure shows the overview of the proposed ReLaX-VQA framework. The architectures of ResNet-50 Stack (I) and ResNet-50 Pool (II) are provided in Fig.2 in the Appendix.
+
+
+## Citations
+If you use the data or code provided in this repository, please cite the following:
+
+@misc{wang2024relaxvqaresidualfragmentlayer,
+      title={ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment}, 
+      author={Xinyi Wang and Angeliki Katsenou and David Bull},
+      year={2024},
+      eprint={2407.11496},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2407.11496}, 
+}
+
+## Acknowledgment
+This work was funded by the UKRI MyWorld Strength in Places Programme (SIPF00006/1).
