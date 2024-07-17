@@ -14,9 +14,10 @@ With the rapid growth of User-Generated Content (UGC) exchanged between users an
 The figure shows the overview of the proposed ReLaX-VQA framework. The architectures of ResNet-50 Stack (I) and ResNet-50 Pool (II) are provided in Fig.2 in the Appendix.
 
 
-## Citations
-If you use the data or code provided in this repository, please cite the following:
+## Citation
+If you use the code provided in this repository, please cite our paper:
 
+```bibtex
 @misc{wang2024relaxvqaresidualfragmentlayer,
       title={ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment}, 
       author={Xinyi Wang and Angeliki Katsenou and David Bull},
@@ -27,5 +28,7 @@ If you use the data or code provided in this repository, please cite the followi
       url={https://arxiv.org/abs/2407.11496}, 
 }
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2407.11496-b31b1b.svg)](https://arxiv.org/abs/2407.11496)
 ## Acknowledgment
 This work was funded by the UKRI MyWorld Strength in Places Programme (SIPF00006/1).
