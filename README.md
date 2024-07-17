@@ -4,8 +4,9 @@
 # ReLaX-VQA
 will be updated soon..
 
-This repository will open source the code from the following paper[![arXiv](https://img.shields.io/badge/arXiv-2407.11496v1-b31b1b.svg)](https://arxiv.org/abs/2407.11496v1): 
+This repository will open source the code from the following paper: 
 
+[![arXiv](https://img.shields.io/badge/arXiv-2407.11496v1-b31b1b.svg)](https://arxiv.org/abs/2407.11496v1)
 X. Wang, A. Katsenou, and D. Bull,  ["ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment"](https://arxiv.org/abs/2407.11496v1)
 
 ## Abstract
