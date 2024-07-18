@@ -21,7 +21,7 @@ The figure shows the overview of the proposed ReLaX-VQA framework. The architect
 
 
 ## Acknowledgment
-This work was funded by the UKRI MyWorld Strength in Places Programme (SIPF00006/1).
+This work was funded by the UKRI MyWorld Strength in Places Programme (SIPF00006/1) as part of my PhD study.
 
 ## Citation
 If you find this paper and the repo useful, please cite our paper 😊:
