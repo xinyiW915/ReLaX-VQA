@@ -1,0 +1,550 @@
+2024-05-22 05:39:47,153 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:47,364 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:47,488 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:47,637 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:39:48,851 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:49,070 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:49,140 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:49,280 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:39:50,523 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:50,731 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:50,797 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:50,935 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:39:52,069 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:52,279 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:52,341 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:52,471 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:39:53,711 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:53,918 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:53,981 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:54,110 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:39:55,286 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:55,495 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:55,553 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:55,703 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:39:56,934 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:57,143 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:57,196 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:57,331 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:39:58,934 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:39:59,171 - DEBUG - [INFO] Loading weights
+2024-05-22 05:39:59,232 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:39:59,377 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:00,601 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:00,813 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:00,869 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:01,006 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:02,174 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:02,381 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:02,441 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:02,597 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:03,891 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:04,135 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:04,270 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:04,545 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:05,842 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:06,049 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:06,116 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:06,258 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:07,545 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:07,754 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:07,845 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:07,983 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:09,143 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:09,347 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:09,442 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:09,576 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:10,726 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:10,932 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:11,018 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:11,152 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:12,354 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:12,559 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:12,643 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:12,777 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:13,939 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:14,147 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:14,243 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:14,373 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:15,374 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:15,608 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:15,677 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:15,814 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:17,686 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:17,907 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:18,004 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:18,145 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:19,384 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:19,593 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:19,695 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:19,843 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:21,103 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:21,310 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:21,388 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:21,529 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:22,697 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:22,903 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:22,970 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:23,109 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:24,121 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:24,328 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:24,405 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:24,546 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:25,760 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:25,967 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:26,033 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:26,168 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:27,391 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:27,600 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:27,672 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:27,817 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:29,004 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:29,209 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:29,259 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:29,396 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:30,583 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:30,789 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:30,848 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:30,982 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:32,239 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:32,453 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:32,504 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:32,644 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:33,778 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:33,985 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:34,034 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:34,152 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:35,361 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:35,568 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:35,621 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:35,751 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:36,955 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:37,167 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:37,224 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:37,364 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:38,565 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:38,775 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:38,833 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:38,969 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:40,180 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:40,386 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:40,437 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:40,565 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:41,715 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:41,925 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:41,975 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:42,122 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:43,176 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:43,381 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:43,432 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:43,560 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:44,636 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:44,840 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:44,917 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:45,044 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:46,174 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:46,383 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:46,433 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:46,564 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:47,700 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:47,909 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:47,986 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:48,341 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:49,577 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:49,783 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:49,878 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:50,010 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:51,123 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:51,330 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:51,408 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:51,535 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:52,770 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:52,979 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:53,051 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:53,184 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:54,336 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:54,541 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:54,613 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:54,740 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:57,653 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:40:57,653 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:57,932 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:58,032 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:58,109 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:58,115 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:58,325 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:58,393 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:58,461 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:59,210 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:40:59,210 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:59,466 - DEBUG - [INFO] Loading weights
+2024-05-22 05:40:59,560 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:40:59,679 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:40:59,685 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:40:59,976 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:00,047 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:00,173 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:00,860 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:00,860 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:01,066 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:01,129 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:01,201 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:01,206 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:01,440 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:01,490 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:01,566 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:02,317 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:02,317 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:02,523 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:02,586 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:02,652 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:02,657 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:02,865 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:02,939 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:03,011 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:03,669 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:03,671 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:03,881 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:03,947 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:04,018 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:04,024 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:04,227 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:04,278 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:04,343 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:05,111 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:05,111 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:05,364 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:05,459 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:05,574 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:05,583 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:05,818 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:05,869 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:05,940 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:06,606 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:06,606 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:06,831 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:06,891 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:06,984 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:06,989 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:07,197 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:07,254 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:07,327 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:08,064 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:08,064 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:08,269 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:08,325 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:08,421 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:08,426 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:08,634 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:08,690 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:08,757 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:09,470 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:09,470 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:09,692 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:09,750 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:09,843 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:09,850 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:10,071 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:10,154 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:10,231 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:10,967 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:10,967 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:11,245 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:11,324 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:11,401 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:11,407 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:11,612 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:11,663 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:11,735 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:12,409 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:12,410 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:12,615 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:12,671 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:12,744 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:12,749 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:12,967 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:13,054 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:13,152 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:13,894 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:13,894 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:14,102 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:14,190 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:14,267 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:14,273 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:14,478 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:14,529 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:14,596 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:15,278 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:15,278 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:15,486 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:15,544 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:15,611 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:15,617 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:15,821 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:15,873 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:15,950 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:16,590 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:16,590 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:16,798 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:16,849 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:16,925 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:16,931 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:17,138 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:17,191 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:17,262 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:17,920 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:17,920 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:18,124 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:18,188 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:18,263 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:18,268 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:18,474 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:18,524 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:18,597 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:19,319 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:19,320 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:19,528 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:19,606 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:19,684 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:19,691 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:19,898 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:19,951 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:20,029 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:20,727 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:20,728 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:20,933 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:20,987 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:21,059 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:21,065 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:21,268 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:21,319 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:21,387 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:22,103 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:22,103 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:22,310 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:22,359 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:22,431 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:22,435 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:22,645 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:22,694 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:22,757 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:23,445 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:23,445 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:23,652 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:23,709 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:23,777 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:23,783 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:23,983 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:24,035 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:24,111 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:24,795 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:24,795 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:25,001 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:25,082 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:25,155 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:25,161 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:25,370 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:25,418 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:25,489 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:26,247 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:26,248 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:26,457 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:26,541 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:26,618 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:26,623 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:26,833 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:26,888 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:26,954 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:27,684 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:27,684 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:27,896 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:27,971 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:28,059 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:28,065 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:28,285 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:28,351 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:28,435 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:29,191 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:29,191 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:29,400 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:29,498 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:29,577 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:29,585 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:29,801 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:29,855 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:29,928 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:30,587 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:30,587 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:30,793 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:30,846 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:30,927 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:30,936 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:31,142 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:31,194 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:31,274 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:32,056 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:32,056 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:32,267 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:32,338 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:32,423 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:32,429 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:32,635 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:32,688 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:32,762 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:33,511 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:33,511 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:33,718 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:33,844 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:33,935 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:33,941 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:34,159 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:34,228 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:34,304 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:35,611 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:35,611 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:35,837 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:35,948 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:36,030 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:36,036 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:36,249 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:36,344 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:36,416 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:37,170 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:37,170 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:37,387 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:37,562 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:37,765 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:37,773 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:37,988 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:38,090 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:38,165 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:38,971 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:38,971 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:39,262 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:39,348 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:39,450 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:39,455 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:39,661 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:39,711 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:39,782 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:40,489 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:40,489 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:40,697 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:40,787 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:40,859 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:40,865 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:41,075 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:41,133 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:41,203 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:41,867 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:41,867 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:42,074 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:42,148 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:42,224 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:42,230 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:42,497 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:42,568 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:42,648 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:43,750 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:43,750 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:43,968 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:44,064 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:44,130 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:44,135 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:44,341 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:44,399 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:44,470 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:45,355 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:45,355 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:45,575 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:45,662 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:45,736 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:45,741 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:45,952 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:46,011 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:46,088 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:46,769 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:46,769 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:46,978 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:47,056 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:47,128 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:47,137 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:47,413 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:47,477 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:47,563 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:48,294 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:48,294 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:48,505 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:48,622 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:48,727 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:48,734 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:48,943 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:49,020 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:49,094 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:50,928 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:50,928 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:51,139 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:51,195 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:51,262 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:51,267 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:51,480 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:51,530 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:51,608 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:52,552 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:52,553 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:52,761 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:52,834 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:52,916 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:52,922 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:53,128 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:53,186 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:53,260 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:53,958 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:53,958 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:54,171 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:54,255 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:54,321 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:54,328 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:54,535 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:54,595 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:54,681 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:55,410 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:55,410 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:55,662 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:55,740 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:55,818 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:55,824 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:56,033 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:56,093 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:56,167 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:56,859 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:56,859 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:57,066 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:57,190 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:57,259 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:57,265 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:57,469 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:57,523 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:57,589 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:58,284 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:58,284 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:58,490 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:58,569 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:58,633 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:58,638 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:58,845 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:58,895 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:58,956 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:59,627 - DEBUG - Shape of activation array: (2048, 1, 1)
+2024-05-22 05:41:59,628 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:41:59,836 - DEBUG - [INFO] Loading weights
+2024-05-22 05:41:59,918 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:41:59,984 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:41:59,989 - DEBUG - [INFO] Initializing vit_base with patch size of 16
+2024-05-22 05:42:00,190 - DEBUG - [INFO] Loading weights
+2024-05-22 05:42:00,245 - DEBUG - dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
+2024-05-22 05:42:00,317 - DEBUG - Attention array shape: (196, 768)
+2024-05-22 05:42:00,530 - DEBUG - Shape of feature vector after global pooling: (42, 13120)
+2024-05-22 05:42:00,531 - DEBUG - Shape of feature vector after global pooling: (42, 2051)
+2024-05-22 05:42:00,542 - DEBUG - Shape of feature vector after global pooling: (42, 2304)
+2024-05-22 05:42:00,607 - DEBUG - Shape of feature vector after global pooling: (42, 2304)

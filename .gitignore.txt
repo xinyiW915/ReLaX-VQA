@@ -1,0 +1,9 @@
+# .gitignore
+.DS_Store
+visualisation/resnet50/
+visualisation/vgg16/
+visualisation/vit/
+features/resnet50/
+features/vgg16/
+features/vit/
+count_file_combined.py

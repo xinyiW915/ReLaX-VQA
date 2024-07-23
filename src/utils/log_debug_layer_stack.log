@@ -1,0 +1,2 @@
+2024-05-22 05:40:54,883 - DEBUG - Shape of feature vector after global pooling: (42, 13120)
+2024-05-22 05:40:54,891 - DEBUG - Shape of feature vector after global pooling: (42, 2304)

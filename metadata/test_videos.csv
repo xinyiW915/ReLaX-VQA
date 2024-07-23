@@ -1,0 +1,4 @@
+vid,category,resolution,x_Subjects,MOSFull,MOSChunk00,MOSChunk05,MOSChunk10,stdFull,stdChunk00,stdChunk05,stdChunk10,width,height,pixfmt,framerate,nb_frames,bitdepth,bitrate
+TelevisionClip_1080P-68c6,TelevisionClip,1080,132,4.561,4.661,4.658,4.613,0.436,0.374,0.387,0.387,1920,1080,yuv420p,25,,,
+Sports_2160P-0455,Sports,2160,126,4.287,4.364,4.204,4.191,0.56,0.591,0.75,0.6509999999999999,3840,2160,yuv420p,29.97002997,,,
+5636101558,Konvid_1k,540,,2.26,,24,192,,,,,960,540,yuv420p,24,192,8,883071
