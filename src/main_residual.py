@@ -21,9 +21,6 @@ def load_metadata(video_type, compressed_type, codec_name=None):
         # Test
         if video_type == 'original_ugc':
             return pd.read_csv("../metadata/YOUTUBE_UGC_metadata_original.csv")
-        # FR: original
-        elif video_type == 'original_bvi_texture':
-            return pd.read_csv(f"../metadata/BVI_textures_metadata_original.csv")
         # NR: original
         elif video_type == 'resolution_ugc':
             resolution = '2160P'
@@ -51,9 +48,6 @@ def get_video_paths(network_name, video_type, compressed_type, videodata, i):
                 video_path = f"../ugc_original_videos/{video_name}.mp4"
             else:
                 video_path = f"../ugc_original_videos/{video_name}.mkv"
-        # FR: original
-        elif video_type == 'original_bvi_texture':
-            video_path = Path("D:/video_dataset/BVI_textures/BVI_textures_fullHD_60fps/Original") / f"{video_name}.yuv"
         # NR: original
         elif video_type == 'konvid_1k':
             video_path = Path("D:/video_dataset/KoNViD_1k/KoNViD_1k_videos") / f"{video_name}.mp4"
