@@ -1,6 +1,6 @@
 # .gitignore
 .DS_Store
-.idea
+/.idea/
 visualisation/resnet50/
 visualisation/vgg16/
 visualisation/vit/
