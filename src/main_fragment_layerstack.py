@@ -105,7 +105,7 @@ def get_deep_feature(network_name, video_name, image_path, qp, layer_name):
         elif layer_name == 'pool':
             # visual_layer = 'fc1'
             visual_layer = 'fc2'  # fc1 = vgg16.classifier[0], fc2 = vgg16.classifier[3]
-        frame_npy, _ = visualise_vgg_layer.process_video_frame(video_name, image_path, visual_layer, qp)
+            frame_npy, _ = visualise_vgg_layer.process_video_frame(video_name, image_path, visual_layer, qp)
 
     elif network_name == 'vit':
         # torch.cuda.set_device(torch.cuda.current_device()) # for gpu
