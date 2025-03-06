@@ -2,7 +2,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-youtube-ugc)](https://paperswithcode.com/sota/video-quality-assessment-on-youtube-ugc?p=relax-vqa-residual-fragment-and-layer-stack)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/relax-vqa-residual-fragment-and-layer-stack/video-quality-assessment-on-konvid-1k)](https://paperswithcode.com/sota/video-quality-assessment-on-konvid-1k?p=relax-vqa-residual-fragment-and-layer-stack)
 
-will be updated more soon..。
+will be updated more soon... 😊
 # ReLaX-VQA
 
 This repository will open source the code from the following paper: 
