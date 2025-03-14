@@ -1,0 +1,9 @@
+2025-03-13 17:14:32,658 - INFO - ReLax-VQA --- video type: test
+2025-03-13 17:14:32,659 - DEBUG - Running on CPU
+2025-03-13 17:14:33,555 - INFO - 5636101558_540p
+2025-03-13 17:14:48,603 - DEBUG - Execution time for 5636101558_540p feature extraction: 15.2560 seconds
+2025-03-13 17:14:48,623 - DEBUG - 
+ All features shape: (1, 35203)
+2025-03-13 17:14:48,628 - DEBUG - Successfully created ../features/test_relaxvqa_feats.mat
+2025-03-13 17:14:48,628 - DEBUG - Execution time for all feature extraction: 15.9696 seconds
+
