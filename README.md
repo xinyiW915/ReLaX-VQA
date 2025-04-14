@@ -8,6 +8,8 @@ Official Code for the following paper:
 
 **X. Wang, A. Katsenou, and D. Bull**. [ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment](https://arxiv.org/abs/2407.11496)
 
+The paper “[Frame Differences Matter in Quality Assessment of Compressed Videos](https://github.com/xinyiW915/ReLaX-VQA?tab=readme-ov-file)” was accepted by the 25th International Conference on Digital Signal Processing (DSP 2025).
+
 Try our online demo on Hugging Face 🤗: [https://huggingface.co/spaces/xinyiW915/ReLaX-VQA](https://huggingface.co/spaces/xinyiW915/ReLaX-VQA)
 
 ### ☑️ TODO
