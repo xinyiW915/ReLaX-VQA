@@ -180,8 +180,18 @@ If you find this paper and the repo useful, please cite our paper 😊:
       eprint={2407.11496},
       archivePrefix={arXiv},
       primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2407.11496}, 
-}
+      url={https://arxiv.org/abs/2407.11496}}
+
+@INPROCEEDINGS{11075040,
+  author={Wang, Xinyi and Katsenou, Angeliki and Bull, David},
+  booktitle={2025 25th International Conference on Digital Signal Processing (DSP)}, 
+  title={Frame Differences Matter in Quality Assessment of Compressed Videos}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={User-generated content;Digital signal processing;Transcoding;Video compression;Transformers;Quality assessment;Spatiotemporal phenomena;Video recording;Testing;Residual neural networks;No-Reference Video Quality Assessment;User-generated Content;Deep Features;Video Compression},
+  doi={10.1109/DSP65409.2025.11075040}}
 ```
 
 ## Contact:
